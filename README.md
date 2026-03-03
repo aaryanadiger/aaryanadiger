@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaryanadiger
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learnin a lot of stuff 
 - 📫 How to reach me : email- aaryanadiger@gmail.com
 
 <!---
